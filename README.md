@@ -8,8 +8,8 @@ From sales to coding websites: I am a motivated and open to new experiences Juni
 
 11/2023 - 07/2024
 
-Junior Frontend Developer
-Infoshare Academy
+Junior Frontend Developer<br/>
+Infoshare Academy<br/>
 
 -	440 hours of an extramural course online (live streaming), including pre-work & homeworks 
 -	Course divided into 3 modules: theoretical, workshops, team project (5 homework projects, 1 team project)
@@ -24,19 +24,19 @@ Infoshare Academy
 							       		
 10/2011 - 05/2013
 
-Master’s degree in English Philology
-The Faculty of Humanities, cultural studies
-The University of Warmia and Mazury in Olsztyn
+Master’s degree in English Philology<br/>
+The Faculty of Humanities, cultural studies<br/>
+The University of Warmia and Mazury in Olsztyn<br/>
 
 10/2008 - 05/2011
 
-Bachelor’s degree in English Philology
-English Department, linguistics
-Nicolaus Copernicus University in Toruń
+Bachelor’s degree in English Philology<br/>
+English Department, linguistics<br/>
+Nicolaus Copernicus University in Toruń<br/>
 
 
 ## Work Experience
-03/2019 - till now
+03/2019 - till now<br/>
 HEINZ-GLAS DZIAŁDOWO Ltd.<br/>
 Senior Sales Specialist 
 -	Customer service for foreign markets, in particular: USA, Great Britain, France, China, Peru
@@ -46,7 +46,7 @@ Senior Sales Specialist
 -	Streamlining communication channels by documenting and tracking key project details in the system, ensuring real-time updates for both clients and internal teams
 -	Preparing sales reports and budget forecast
 
-10/2014 - 03/2019 
+10/2014 - 03/2019<br/>
 HEINZ-GLAS DZIAŁDOWO Ltd.<br/>
 Sales & Marketing Employee
 -	Customer service for Polish and foreign markets (Italy, Benelux)
