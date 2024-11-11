@@ -43,7 +43,7 @@ Senior Sales Specialist
 -	Customer service for foreign markets, in particular: USA, Great Britain, France, China, Peru
 -	Leading end-to-end project management, coordinating all stages from client meetings to final product delivery, ensuring alignment with the client’s expectations and internal processes
 -	Ensuring smooth project execution, driving cross-functional collaboration between, production, planning, quality, development and logistics teams
--	Integrating detailed project data into the system, entering cross-referencing data to prepare accurate price calculations, coordinate resources, monitor progress of the project and ensure on-time delivery
+-	Integrating detailed project data into the system, entering cross-referencing data to prepare accurate price calculations, coordinate product resources, monitor progress of the project and ensure on-time delivery
 -	Streamlining communication channels by documenting and tracking key project details in the system, ensuring real-time updates for both clients and internal teams
 -	Preparing sales reports and budget forecast
 
