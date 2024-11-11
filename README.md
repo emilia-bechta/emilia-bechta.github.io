@@ -99,7 +99,7 @@ Hard skills
 
 ## Projects
 
-Zwierzapp
+Zwierzapp (Team project)
 
 The application helps dog and cat owners find suitable caregivers for their animals during their absence. At the same time, Zwierzapp allows users to offer care, search for information according to specific preferences and enables contact the owners with potential caregivers.
 
