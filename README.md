@@ -107,7 +107,7 @@ Functionalities
 - Form for the owner: completing the pet's data
 - Form for a caregiver: price list, preferred care
 - Caregiver availability form
-- Guardian search form
+- Caregiver search form
 - Sending an inquiry to a potential caregiver
 
 Implemented technologies: React, Firebase, TypeScript, SCSS
