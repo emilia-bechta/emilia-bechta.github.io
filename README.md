@@ -3,7 +3,7 @@
 
 ## Summary
 
-From sales to coding websites: I am a motivated and open to new experiences Junior Frontend Developer transitioning from a decade-long career as a Senior Sales Specialist in the cosmetics & perfumery glass industry. Equipped with a strong problem-solving mindset, deep understanding of the customer’s needs and project management skills, I now combine my expertise in Frontend technologies. A graduate from the Infoshare Academy intense 8 months training, I acquired solid knowledge and practice of web development, including among others CSS, HTML, JavaScript, React, TypeScript. During the training and afterwards I built user-oriented applications demonstrated through my portfolio, proving both - technical proficiency and creativity in order to deliver an efficient code exceeding the user’s expectations. Always curious to learn, eager to contribute as a team-player, and believing that the quality is a natural byproduct of hard work, diligence and attention to details.
+From sales to coding websites: I am a motivated and open to new experiences Junior Frontend Developer transitioning from a decade-long career as a Senior Sales Specialist in the cosmetics & perfumery glass industry. Equipped with a strong problem-solving mindset, deep understanding of the customer’s needs and project management skills, I now combine my expertise in Frontend technologies. A graduate from the Infoshare Academy intense 8 months training, I acquired solid knowledge and practice of web development, including among others CSS, HTML, JavaScript, React, TypeScript. During the training and afterwards I built user-oriented applications demonstrated through my portfolio, proving both - technical proficiency and creativity in order to deliver an efficient code aligned with the user’s expectations. Always curious to learn, eager to contribute as a team-player, and believing that the quality is a natural byproduct of hard work, diligence and attention to details.
 
 ## Education
 
@@ -12,26 +12,26 @@ From sales to coding websites: I am a motivated and open to new experiences Juni
 Junior Frontend Developer<br/>
 Infoshare Academy<br/>
 
--	440 hours of an extramural course online (live streaming), including pre-work & homeworks 
+-	440 hours of an online course (live streaming), including pre-work & homeworks 
 -	Course divided into 3 modules: theoretical, workshops, team project (5 homework projects, 1 team project)
 -	Technology stack:
--	Frontend Development: HTML, CSS, JavaScript, React, TypeScript
+-	Frontend: CSS, HTML, JavaScript, React, TypeScript
 -	Backend services: Firebase
 -	Version Control & Collaboration: Git, Github
--	Testing & Automation: Jest, Cypress, E2E tests
+-	Testing & Automation: Cypress, Jest, E2E tests
 -	Methodologies & Tools:
--	Scrum
 -	Jira
+-	Scrum
 							       		
 10/2011 - 05/2013
 
-Master’s degree in English Philology<br/>
+Master’s degree in English Philology (part-time studies)<br/>
 The Faculty of Humanities, cultural studies<br/>
 The University of Warmia and Mazury in Olsztyn<br/>
 
 10/2008 - 05/2011
 
-Bachelor’s degree in English Philology<br/>
+Bachelor’s degree in English Philology (full-time studies)<br/>
 English Department, linguistics<br/>
 Nicolaus Copernicus University in Toruń<br/>
 
@@ -54,43 +54,43 @@ Sales & Marketing Employee
 -	Project management, i.e. daily basis communication including preparing price calculations in the system, monitoring orders, providing customers with logistics and planning support 
 -	Building and maintaining long-term relationships with customers and acquiring new business partners
 -	Preparing promotional materials and support in the implementation of marketing and advertising campaigns (including leaflets, brochures, promotional gadgets)
--	Booths preparation at the trade fairs (Packaging Innovations in Warsaw, Cosmoprof Bologna, PCD in Paris) coordinating the design and setup of the stand to ensure a positive and engaging representation of the brand
+-	Booths preparation at the trade fairs (Packaging Innovations in Warsaw, Cosmoprof Bologna) coordinating the design and setup of the stand to ensure a positive and engaging representation of the brand
 
 ## Skills
 
 Know well
 
-- HTML
 - CSS
-- JavaScript
-- React
 - Git
 - Github
+- HTML
+- JavaScript
+- React
 - TypeScript
 - Visual Studio Code
 
 Currently developing
 
-- Firebase
 - Cypress, E2E tests
-- Scrum
+- Firebase
 - Jira
+- Scrum
+
 
 Soft skills
 
 - Adaptability and flexibility
-- Customer service orientation
 - Attention to detail
-- Problem solving and critical thinking
 - Continuous learning and improvement
+- Customer service orientation
+- Problem solving and critical thinking
 
 Hard skills
 
-- Responsive Design
-- Cross-Browser Compatibility
-- Web Performance Optimization
 - Debugging and Troubleshooting
 - Frontend Tools (Babel, webpack, NPM)
+- Responsive Design
+- Web Performance Optimization
 
 ## Languages
 
